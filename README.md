@@ -1,6 +1,5 @@
 # Shark-Attacks
 
-Things to do:
 Clean up data
  - clean up dates
     - clean up case id and format as Date
@@ -13,19 +12,33 @@ Clean up data
  - clean up activities
         - Grouping similar activities together   
  - isolate to location
- - 
+ - export to new csv file to use for analysis 
+ 
 Analysis:
  - 6-8 questions we want to anwer:
     - ANDY: Location Analysis (2 questions):
         - season
+            - Bar Graph?  
         - country (Country > Area > Location)
+            - Map
     -STACEY:Victim Analysis (2 questions):
         - m/f
+             - Pie Chart? 
         - by activity
+             - Bar Graph? 
+             - Incorporate location for scatter plot   
     - JAKE: Shark Analysis (2 questions):
         - by shark type
+             - Bar or Pie 
         - fatal v. non-fatal (compare to shark)
+             - Pie with unknown
+             - Compare activity with fatality 
         - shark mating season (another data set?)
+             - Compile with location - hypotheosis: mating season increases shark attacks 
     - STRETCH API Data (2 questions):    
+        - Obtian historic weather for location on date (group by month or week?)
+             - Compare with number of attacks   
+             - Some sort of chart 
+             - Hypotheosis: Storm increases shart attacks due to musky weather 
           
  - STRETCH: prevelance by weather (API)
