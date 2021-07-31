@@ -21,7 +21,7 @@ Analysis:
             - Bar Graph?  
         - country (Country > Area > Location)
             - Map
-    -STACEY:Victim Analysis (2 questions):
+    - STACEY:Victim Analysis (2 questions):
         - m/f
              - Pie Chart? 
         - by activity
