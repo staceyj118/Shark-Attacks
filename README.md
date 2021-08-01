@@ -1,8 +1,5 @@
 # Shark-Attacks
 
-<<<<<<< HEAD
-testing 
-=======
 Clean up data
  - clean up dates
     - clean up case id and format as Date
@@ -45,4 +42,3 @@ Analysis:
              - Hypotheosis: Storm increases shart attacks due to musky weather 
           
  - STRETCH: prevelance by weather (API)
->>>>>>> 08d2dff0e045e312a1df8fa12d9efe8ec31a4f56
