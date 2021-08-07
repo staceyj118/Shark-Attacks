@@ -68,6 +68,6 @@
 * API
 
 ## Contributors 
-Andy: https://github.com/andyob715
-Jake: https://github.com/JakeRose689
-Stacey: https://github.com/staceyj118
+* Andy: https://github.com/andyob715
+* Jake: https://github.com/JakeRose689
+* Stacey: https://github.com/staceyj118
