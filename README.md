@@ -8,19 +8,22 @@
  - Export to new csv file to use for analysis 
  
 ## Analysis:
-   Location Analysis:
-     - Finalized cleaning of Location, Country, and Area columns, created bins for time periods. 
-     
-     Questions: 
-     - What location has the most shark attacks, focusing on USA? 
-     
-     ![image](https://user-images.githubusercontent.com/84548295/128611264-572bde1d-4af1-4e22-8676-d9c78027bd20.png)
-     
-     ![image](https://user-images.githubusercontent.com/84548295/128611271-519e4042-a6b9-4bf2-9c4e-e63a4f669d23.png)
-       
-     - Does the season of the year affect the likelihood of being attacked?
+
+### Location Analysis:
+
+Finalized cleaning of Location, Country, and Area columns, created bins for time periods. 
+
+Questions: 
+  - What location has the most shark attacks, focusing on USA? 
+	
+	![image](https://user-images.githubusercontent.com/84548295/128611264-572bde1d-4af1-4e22-8676-d9c78027bd20.png)
         
-   Victim Analysis: 
+	![image](https://user-images.githubusercontent.com/84548295/128611271-519e4042-a6b9-4bf2-9c4e-e63a4f669d23.png)
+     	
+  - Does the season of the year affect the likelihood of being attacked?
+        
+
+### Victim Analysis: 
      - Finalized cleaning of Type, Activity, Sex, Age, and Fatal Columns. Reorganized Injury column to remark type of injury: Severe, Minor to Moderate, None. 
      
      Questions: 
@@ -48,7 +51,7 @@
 
 
 
-   Shark Analysis:
+### Shark Analysis:
      - Finalized cleaning of Species column. Utilized cleaned Fatal column and merged Fatal and Species 
      
      Questions: 
