@@ -15,21 +15,22 @@ Finalized cleaning of Location, Country, and Area columns, created bins for time
 Questions: 
   - What location has the most shark attacks, focusing on USA? 
 	
-	![image](https://user-images.githubusercontent.com/84548295/128611264-572bde1d-4af1-4e22-8676-d9c78027bd20.png)
+	![image](https://github.com/staceyj118/Shark-Attacks/blob/main/maps/shark_attack_coordmap.png?raw=true)
+
+	![image](https://github.com/staceyj118/Shark-Attacks/blob/main/maps/shark_attack_heatmap.png?raw=true)
         
-	![image](https://user-images.githubusercontent.com/84548295/128611271-519e4042-a6b9-4bf2-9c4e-e63a4f669d23.png)
 
 	As expected, coastal attacks on both coasts spanned from north to sourth in the US. Interestingly, there were a handful of attacks that happened inside of acquariums, whih accounts for the landlocked attacks. From an intensity of attack perspective, Florida had a much higher cluster of attacks than anywhere else in the United States. Further analysis should be conducted to determine whether population, tourism or other factors contribute to that higher cluster of attacks.
      	
   - Does the season of the year affect the likelihood of being attacked?
 
-	TODO: Add Season Graph
+	![image](https://github.com/staceyj118/Shark-Attacks/blob/main/maps/seasonal_attacks.png?raw=true)
 	
 	The summer and the fall generated the highest number of attacks compared to winter and spring. Over time, the summer and fall appeared to grow at a greater proprortionate rate than expected compared to the other seasons. This could be due to changing weather conditions, changes in tourism or other factors. Further analysis could be conducted to determine why these seasons continue to grow at a higher rate.
 	
   - What month of the year has the most shark attacks, focusing on USA?
 
-	TODO: Add Month Graph
+	![image](https://github.com/staceyj118/Shark-Attacks/blob/main/maps/shark_attacks_by_month.png?raw=true)
 	
 	The summer months yielded the highest proportion of attacks compared to the average. On the surface this seems intuitive due to the nature of tourism and the desire for more people to "hit the beach when its hot". Further analysis could be done to undestand how temperature/weather impacts shark food supply locations.
         
@@ -41,24 +42,30 @@ Questions:
    - Which gender is attacked the most? 
      
 	![image](https://user-images.githubusercontent.com/84548295/128611331-2d7cf768-0a17-467a-9b22-a5f76d885cba.png)
+     
+     Males are attacked the most by a long-shot. The unknown is one individual where translation from the info within the data could not be made. 
  
    - Which activity results in the most shark attacks? 
      
-	![image](https://user-images.githubusercontent.com/84548295/128611368-0f5735e0-2727-43dc-a6d0-ea35a76a1b3d.png)
+	![image](https://github.com/staceyj118/Shark-Attacks/blob/main/Activities.png?raw=true)
+	
+     Surfing and swimming are the most popular activity to be attacked by the shark. This makes sense as those are the activites most individuals participate in while at the beach. 
 
    - Which gender provokes attacks the most? 
      
-	![image](https://user-images.githubusercontent.com/84548295/128611372-3cec2c78-0356-45f2-8474-93e6086e9f9e.png)
+	![image](https://github.com/staceyj118/Shark-Attacks/blob/main/Gender_vs_Provoked.png?raw=true)
+     
+     Males do provoke sharks the most, which would explain why they were also the most attacked as seen above. 
 
    - Are there more injuries when attacks are provoked? 
      
-	![image](https://user-images.githubusercontent.com/84548295/128611376-0fdc5819-6882-413f-95be-43d046dd5baf.png)
+	![image](https://github.com/staceyj118/Shark-Attacks/blob/main/Fatality_vs_Provoked.png?raw=true)
+    
+     Surprisingly, most attacks are unprovoked. 
 
    - Are most attack injuries severe? 
      
-	![image](https://user-images.githubusercontent.com/84548295/128611380-717938c7-d3bb-4542-be67-29f9745e1db8.png)
-
-   - Which age group have the most fatalities? 
+	![image](https://github.com/staceyj118/Shark-Attacks/blob/main/Injury.png?raw=true)
 
 
 
@@ -79,7 +86,8 @@ Questions:
 * Numpy
 * Matplotlib
 * Scipy
-* API
+* gmaps API
+* json
 
 ## Contributors 
 * Andy: https://github.com/andyob715
