@@ -43,31 +43,31 @@ Questions:
      
 ![image](https://github.com/staceyj118/Shark-Attacks/blob/main/Male_vs_Female.png?raw=true)
 
-	Males are attacked the most by a long-shot. The unknown is one individual where translation from the info within the data could not be made. 
+Males are attacked the most by a long-shot. The unknown is one individual where translation from the info within the data could not be made. 
  
    - Which activity results in the most shark attacks? 
      
 ![image](https://github.com/staceyj118/Shark-Attacks/blob/main/Activities.png?raw=true)
 
-	Surfing and swimming are the most popular activity to be attacked by the shark. This makes sense as those are the activites most individuals participate in while at the beach. 
+Surfing and swimming are the most popular activity to be attacked by the shark. This makes sense as those are the activites most individuals participate in while at the beach. 
 
    - Which gender provokes attacks the most? 
    
 ![image](https://github.com/staceyj118/Shark-Attacks/blob/main/Gender_vs_Provoked.png?raw=true)
 
-	Males do provoke sharks the most, which would explain why they were also the most attacked as seen above. 
+Males do provoke sharks the most, which would explain why they were also the most attacked as seen above. 
 
    - Are there more injuries when attacks are provoked? 
      
 ![image](https://github.com/staceyj118/Shark-Attacks/blob/main/Fatality_vs_Provoked.png?raw=true)
 
-	Surprisingly, most attacks are unprovoked. 
+Surprisingly, most attacks are unprovoked. 
 
    - Are most attack injuries severe? 
      
 ![image](https://github.com/staceyj118/Shark-Attacks/blob/main/Injury.png?raw=true)
 
-	Luckily, most attacks are minor to moderate severity. Ratings were assigned as follows: Severe - loss of life, broken bones, loss of limb, missing person; Mild to Moderate - all other injuries including scrapes, bumps, bites without broken bones or severed portions of the body; None - No injuries reported, conspiracy/speculation without proof; Unknown - section in report left blank.
+Luckily, most attacks are minor to moderate severity. Ratings were assigned as follows: Severe - loss of life, broken bones, loss of limb, missing person; Mild to Moderate - all other injuries including scrapes, bumps, bites without broken bones or severed portions of the body; None - No injuries reported, conspiracy/speculation without proof; Unknown - section in report left blank.
 
 
 
@@ -79,9 +79,13 @@ Questions:
      
 ![image](https://user-images.githubusercontent.com/84548295/128611416-f34b6cdb-b4f0-4df0-b8f6-86a8ca66db77.png)
 
+The white shark has the most attacks by almost 250. The chart shows all species with more than 3 attacks per the data. Some parts of the data only described the shark by length, which may have skewed the data.
+
    - What shark types have the most fatality? 
      
 ![image](https://user-images.githubusercontent.com/84548295/128611424-6279d1aa-45fe-4af5-8ca6-c644aa59761d.png)
+
+As expected by the last chart, the most fatal attacks were also by the white shark, followed by the Tiger shark and Bull Shark, which are the top three most prevalent to attack. Surprisingly, no other species were fatal until the Zambesi Shark. 
 
 ## Libraries Used
 * Pandas
